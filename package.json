@@ -1,0 +1,15 @@
+{
+  "name": "notification",
+  "version": "1.0.0",
+  "description": "",
+  "main": "notification.js",
+  "scripts": {
+    "start": "node notification.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "firebase-admin": "^12.0.0"
+  }
+}
